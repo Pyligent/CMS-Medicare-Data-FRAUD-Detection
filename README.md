@@ -10,7 +10,7 @@ The impact of healthcare fraud is estimated to be between 3% to 10% of the natio
 
 
 ## 2. Problem Statement
-Build aninnovative data science tool that predicts fraud in the medical insurance industry using anomaly analysis and geo-demographic metrics. Said tool can be offered to insurance providers, health care providers, patients, pharmacy, and doctors and will enable Pulseinsights gain credibility in the industry, combat the increasing costs of healthcare, and costly impact of fraud. 
+Build an innovative data science tool that predicts fraud in the medical insurance industry using anomaly analysis and geo-demographic metrics. Said tool can be offered to insurance providers, health care providers, patients, pharmacy, and doctors and will enable Pulseinsights gain credibility in the industry, combat the increasing costs of healthcare, and costly impact of fraud. 
 
 ### 2.1 Define the problem
 
