@@ -8,11 +8,9 @@ This project is dedicated to building big data solutions with tangible applicati
 Healthcare is a major industry in the U.S. with both private and government run programs. The costs of healthcare continue to rise, in part due to the increasing population of the elderly. U.S. healthcare spending from 2012 to 2014 has increased by 6.7% to reach $3 trillion and Medicare spending accounts for 20% of all health-care spending in the U.S. at about $600 billion. This rising elderly population, combined with the increased costs of Medicare, need cost-cutting solutions, where the reduction in fraud is one way to help recover costs and reduce overall payments. 
 The impact of healthcare fraud is estimated to be between 3% to 10% of the nation’s total healthcare spending and continuing to adversely impact the Medicare program and its beneficiaries (NHCAA 2017). Government has initialized the programs, such as the Medicare Fraud Strike Force (OIG 2017), enacted to help combat fraud, but continued efforts are needed to better mitigate the effects of fraud. These are our project’s basic introduction and background; also it shows that there are huge business opportunities for Medicare Fraud Detection systems.
 
-### 1.2 Problem Statement
-Build a free and innovative data science tool that predicts fraud in the medical insurance industry using anomaly analysis and geo-demographic metrics. Said tool can be offered to insurance providers, health care providers, patients, pharmacy, and doctors and will enable company gain credibility in the industry, combat the increasing costs of healthcare, and costly impact of fraud. 
 
 ## 2. Problem Statement
-Build a free and innovative data science tool that predicts fraud in the medical insurance industry using anomaly analysis and geo-demographic metrics. Said tool can be offered to insurance providers, health care providers, patients, pharmacy, and doctors and will enable Pulseinsights gain credibility in the industry, combat the increasing costs of healthcare, and costly impact of fraud. 
+Build aninnovative data science tool that predicts fraud in the medical insurance industry using anomaly analysis and geo-demographic metrics. Said tool can be offered to insurance providers, health care providers, patients, pharmacy, and doctors and will enable Pulseinsights gain credibility in the industry, combat the increasing costs of healthcare, and costly impact of fraud. 
 
 ### 2.1 Define the problem
 
